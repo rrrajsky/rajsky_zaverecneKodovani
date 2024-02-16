@@ -1,15 +1,39 @@
 .nav{
     background-color: #2F0054;
+    color:white;
 }
 
 .body{
     background-color: #1A001F;
 }
 
-.section{
+.piece{
     background-color: #461100;
+    color:white;
 }
 
 .menuItems{
     background-color: #FFFF00;
+    color: black;
+    margin-right: 30px;
+    margin-bottom: 5px;
+    padding: 5px;
+}
+
+.menuItems > a {
+    color: black;
+}
+
+.star{
+    color:#FFFF00;
+}
+
+.image{
+    width: 629.73px;
+    height: 420px;
+}
+
+.bigImage{
+    width: 1040.98px;
+    height: 750px;
 }

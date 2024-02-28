@@ -37,3 +37,49 @@
     width: 1040.98px;
     height: 750px;
 }
+.nav{
+    background-color: #2F0054;
+    color:white;
+}
+
+.body{
+    background-color: #1A001F;
+}
+
+.piece{
+    background-color: #461100;
+    color:white;
+}
+
+.piece2{
+    color:white;
+}
+
+.menuItems{
+    background-color: #FFFF00;
+    color: black;
+    margin-right: 30px;
+    margin-bottom: 5px;
+    padding: 5px;
+}
+
+.menuItems > a {
+    color: black;
+}
+
+.star{
+    color:#FFFF00;
+}
+
+.image{
+    padding: 0;
+    display: block;
+    margin: 0 auto;
+    max-height: 100%;
+    max-width: 100%;
+}
+
+.bigImage{
+    width: 1040.98px;
+    height: 750px;
+}
